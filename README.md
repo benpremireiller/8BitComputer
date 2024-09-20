@@ -1,6 +1,6 @@
 # 8-bit Computer Project
 
-This repository contains information about a custom-built 8-bit computer. The computer is designed to execute a set of basic instructions and demonstrates fundamental concepts of computer architecture.
+This repository contains information about a custom-built 8-bit breadboard computer. The computer is designed to execute a set of basic instructions and demonstrates fundamental concepts of computer architecture.
 
 ## Architecture Overview
 
